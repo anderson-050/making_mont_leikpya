@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Making Mont Leikpya</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Making Mont Leikpya</h1>
+        <p>Enter the number of snacks.</p>
+        <div id="inputBox">
+            <label for="snackQuantity" class="sr-only">Quantity of snack</label>
+            <input type="number" id="snackQuantity" placeholder="Quantity of snack" min="1" value="1">
+            <button id="calculateButton">Enter</button>
+        </div>
+        <div id="resultBox">
+            <h3>Ingredients Required</h3>
+            <ul id="ingredientList"></ul>
+        </div>
+        <div id="errorBox" class="hidden">
+            Please enter a valid quantity (a positive integer).
+        </div>
+    </div>
+
+    <div class="container theme-card">
+        <button id="themeToggle">Dark Mode</button>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
