@@ -3,7 +3,7 @@ The ingredient calculator
 
 A simple website to calculate the exact ingredients needed for making the delicious **Mont Leikpya** (a traditional Burmese snack). Just enter the number of snacks you want to make, and get your scaled recipe instantly!
 
-#### [Video Demo](https://youtu.be/wy1pvfKvuHA?si=mfRP2z3Gumvjeb33)
+#### [Video Demo](https://youtu.be/KgDT3kc4cNo?si=3R3bxFmrxcQDEsX-)
 
 ## The Story Behind the Recipe
 This tool was created with love and respect for tradition. My dad makes and sells the delicious Mont Leikpya at the market.
