@@ -8,15 +8,15 @@ A simple website to calculate the exact ingredients needed for making **Mont Lei
 ## The Story Behind the Recipe
 This tool was created with love and respect for tradition. My dad makes and sells the delicious Mont Leikpya at the market.
 
-When he receives large orders(sometimes 200, 300, or more),the calculation has to be perfect. This simple calculator is my way of making his preparation easier and more reliable, ensuring every batch is just right. It's also perfect for anyone who wants to try making this snack at home.
+When he receives large orders(sometimes 200, 300, or more), the calculation has to be perfect. This simple calculator is my way of making his preparation easier and more reliable, ensuring every batch is just right. It's also perfect for anyone who wants to try making this snack at home.
 
 ## Features
 
 * **Quantity Scaling:** Calculates the required ingredients for **any integer quantity** of Mont Leikpya.
 * **Simple UI:** Clean, mobile-friendly interface.
 * **Input Validation:** Ensures only positive integer quantities are accepted.
-* **Dark/ Light Mode** Users can switch between dark and light modes using a toggle button.
-* **Responsive Design** Use media queries to ensure that the interface looks good on mobile, tablet, and laptop screens.
+* **Dark/ Light Mode:** Users can switch between dark and light modes using a toggle button.
+* **Responsive Design:** Use media queries to ensure that the interface looks good on mobile, tablet, and laptop screens.
 
 ## Technology Stack
 
