@@ -5,7 +5,7 @@ A simple website to calculate the exact ingredients needed for making **Mont Lei
 
 #### [Video Demo](https://youtu.be/KgDT3kc4cNo?si=3R3bxFmrxcQDEsX-)
 
-## The Story Behind the Recipe
+## The Story Behind the Program
 This tool was created with love and respect for tradition. My dad makes and sells the delicious Mont Leikpya at the market.
 
 When he receives large orders(sometimes 200, 300, or more), the calculation has to be perfect. This simple calculator is my way of making his preparation easier and more reliable, ensuring every batch is just right. It's also perfect for anyone who wants to try making this snack at home.
